@@ -57,7 +57,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>Wil D</strong> {author.summary}
+        Written by <strong>Wilnesse D</strong> {author.summary}
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           You should follow him on Twitter

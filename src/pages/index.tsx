@@ -66,6 +66,7 @@ const BlogIndex = ({ data, location }: PageProps<Data>) => {
           </article>
         )
       })}
+      
     </Layout>
   )
 }

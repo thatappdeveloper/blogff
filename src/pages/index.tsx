@@ -43,6 +43,8 @@ const BlogIndex = ({ data, location }: PageProps<Data>) => {
         return (
           <article key={node.fields.slug}>
             <header>
+            <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
               <h3
                 style={{
                   marginBottom: rhythm(1 / 4),

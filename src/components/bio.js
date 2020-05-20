@@ -57,10 +57,10 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>Wilnesse D</strong> {author.summary}
-        {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+      <strong>Wilnesse D</strong> writes content for tech indutry marketers and business owners. When he's not working, you can find him doing photography and tinkering with tech.
+          {' '}
+          <a href="https://www.thetechcopywriter.com">
+            Need Greate Content? Click Here Now....
         </a>
       </p>
     </div>

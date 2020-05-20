@@ -23,7 +23,7 @@ const Layout = ({ location, title, children }) => {
           }}
           to={`/`}
         >
-          {title}
+          The Tech Copywriter's Blog
         </Link>
       </h1>
     )
@@ -42,7 +42,7 @@ const Layout = ({ location, title, children }) => {
           }}
           to={`/`}
         >
-          {title}
+          The Tech Copywriter's Blog
         </Link>
       </h3>
     )
